@@ -28,6 +28,7 @@
 <summary>Text Preprocessing</summary>
 <br>
 
+- <a href="https://github.com/JaydeepAgravat/NATURAL_LANGUAGE_PROCESSING/blob/main/Notes/text_preprocessing.md">📝</a>
 - What is Text Preprocessing ?
 1. Lowercasing
 2. Removing HTML Tags
