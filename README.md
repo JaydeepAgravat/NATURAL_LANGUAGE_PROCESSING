@@ -23,3 +23,25 @@
 - Example of General NLP pipeline
 - Use of NLP by big tech companies
 </details>
+
+<details>
+<summary>Text Preprocessing</summary>
+<br>
+
+- What is Text Preprocessing ?
+1. Lowercasing
+2. Removing HTML Tags
+3. Removing URLs
+4. Removing Emojis
+5. Removing Punctuation
+6. Spelling Correction
+7. Chat Word Treatment
+8. Removing Stopwords
+9. Handling Numbers
+10. Remove Multiple White Spaces
+11. Tokenization
+12. Stemming
+13. Lemmatization
+</details>
+
+
